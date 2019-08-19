@@ -1,0 +1,14 @@
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\bin\Debug\netcoreapp2.1\HomeworkClass2.deps.json
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\bin\Debug\netcoreapp2.1\HomeworkClass2.runtimeconfig.json
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\bin\Debug\netcoreapp2.1\HomeworkClass2.runtimeconfig.dev.json
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\bin\Debug\netcoreapp2.1\HomeworkClass2.dll
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\bin\Debug\netcoreapp2.1\HomeworkClass2.pdb
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\obj\Debug\netcoreapp2.1\HomeworkClass2.csprojAssemblyReference.cache
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\obj\Debug\netcoreapp2.1\HomeworkClass2.csproj.CoreCompileInputs.cache
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\obj\Debug\netcoreapp2.1\HomeworkClass2.RazorAssemblyInfo.cache
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\obj\Debug\netcoreapp2.1\HomeworkClass2.RazorAssemblyInfo.cs
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\obj\Debug\netcoreapp2.1\HomeworkClass2.AssemblyInfoInputs.cache
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\obj\Debug\netcoreapp2.1\HomeworkClass2.AssemblyInfo.cs
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\obj\Debug\netcoreapp2.1\HomeworkClass2.RazorTargetAssemblyInfo.cache
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\obj\Debug\netcoreapp2.1\HomeworkClass2.dll
+C:\Users\Jovana\source\repos\HomeworkClass2\HomeworkClass2\obj\Debug\netcoreapp2.1\HomeworkClass2.pdb
