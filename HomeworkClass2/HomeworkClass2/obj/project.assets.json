@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jovana\\source\\repos\\HomeworkClass2\\HomeworkClass2\\HomeworkClass2.csproj",
+      "projectUniqueName": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\HomeworkClass2\\HomeworkClass2.csproj",
       "projectName": "HomeworkClass2",
-      "projectPath": "C:\\Users\\Jovana\\source\\repos\\HomeworkClass2\\HomeworkClass2\\HomeworkClass2.csproj",
+      "projectPath": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\HomeworkClass2\\HomeworkClass2.csproj",
       "packagesPath": "C:\\Users\\Jovana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jovana\\source\\repos\\HomeworkClass2\\HomeworkClass2\\obj\\",
+      "outputPath": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\HomeworkClass2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jovana\\source\\repos\\HomeworkClass2\\Homework\\Homework.csproj": {}
+    "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\Homework\\Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jovana\\source\\repos\\HomeworkClass2\\Homework\\Homework.csproj": {
+    "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\Homework\\Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jovana\\source\\repos\\HomeworkClass2\\Homework\\Homework.csproj",
+        "projectUniqueName": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\Homework\\Homework.csproj",
         "projectName": "Homework",
-        "projectPath": "C:\\Users\\Jovana\\source\\repos\\HomeworkClass2\\Homework\\Homework.csproj",
+        "projectPath": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\Homework\\Homework.csproj",
         "packagesPath": "C:\\Users\\Jovana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jovana\\source\\repos\\HomeworkClass2\\Homework\\obj\\",
+        "outputPath": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\Homework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

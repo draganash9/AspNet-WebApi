@@ -33,26 +33,45 @@ namespace Homework.Controllers
 		}
 
 		[HttpGet("{id}")]
-		public ActionResult<User> GetUser(int id)
+		public ActionResult<User> Get(int id)
 		{
 			try
 			{
-				if (Users[id-1].Age<18)
-				{
-					return NotFound($"This user is under age");
-				}
-					return Users[id - 1];
+				return Users[id - 1];
 			}
-			catch (IndexOutOfRangeException)
+			catch (ArgumentOutOfRangeException)
 			{
 
-				return NotFound($"The User with {id} id is not found");
+				return NotFound($"User with id {id} is not found!");
 			}
-			catch(Exception ex)
+			catch (Exception ex)
 			{
 				return BadRequest($"BROKEN: {ex.Message}");
 			}
 		}
+
+		[HttpGet("{id}/validation")]
+		public ActionResult<string> Validation(int id)
+		{
+			try
+			{
+				if (Users[id - 1].Age >= 18)
+				{
+					return ($"User with id {id} is an adult");
+				}
+				return ($"User with id {id} is not an adult");
+			}
+			catch (ArgumentOutOfRangeException)
+			{
+
+				return NotFound($"User with id {id} is not found!");
+			}
+			catch (Exception ex)
+			{
+				return BadRequest($"BROKEN: {ex.Message}");
+			}
+		}
+	
 		[HttpPost]
 		public IActionResult Post()
 		{

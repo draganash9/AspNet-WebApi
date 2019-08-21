@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\HomeworkClass2\\HomeworkClass2.csproj": {}
+    "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\Homework\\WebApiApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\HomeworkClass2\\HomeworkClass2.csproj": {
+    "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\Homework\\WebApiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\HomeworkClass2\\HomeworkClass2.csproj",
-        "projectName": "HomeworkClass2",
-        "projectPath": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\HomeworkClass2\\HomeworkClass2.csproj",
+        "projectUniqueName": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\Homework\\WebApiApp.csproj",
+        "projectName": "WebApiApp",
+        "projectPath": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\Homework\\WebApiApp.csproj",
         "packagesPath": "C:\\Users\\Jovana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\HomeworkClass2\\obj\\",
+        "outputPath": "C:\\Users\\Jovana\\Desktop\\AspNetWebApi\\AspNet-WebApi\\HomeworkClass2\\Homework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
             }
           },
           "imports": [
